@@ -17,27 +17,6 @@ I’m also passionate about **automation** and **data analytics**, using **Power
 
 ---
 
-## 🚀 Featured Projects
-📌 **[Chip Purchasing Behavior Analysis](#)**  
-Customer segmentation, outlier detection, and strategic insights for category review.  
-**Tech Used:** SQL, Power BI
-
-📌 **[IT Asset Management Tool](#)**  
-Automated license tracking and renewal reminders using PowerShell & Excel.  
-**Tech Used:** PowerShell, Excel
-
-📌 **[Sales Dashboard](#)**  
-Interactive Power BI dashboard for visualizing sales KPIs.  
-**Tech Used:** Power BI, SQL
-
----
-
-## 📊 GitHub Stats
-![Rami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
-- **Email:** your.email@example.com
+- **Email:** ramireddyt001@gmail.com
